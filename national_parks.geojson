@@ -1,0 +1,4620 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Acadia National Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.2733346,
+          44.3385559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Arches National Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.5925139,
+          38.733081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Badlands National Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.3396912,
+          43.8553804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Big Bend National Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.2425379,
+          29.1274869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Biscayne National Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2083103,
+          25.4824229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Black Canyon of the Gunnison National Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.7415961,
+          38.5753936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bryce Canyon National Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1870895,
+          37.5930377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Canyonlands National Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.9222045,
+          38.3268693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Capitol Reef National Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.2615042,
+          38.3669703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Carlsbad Caverns National Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.5567138,
+          32.1478553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Channel Islands National Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.8586082,
+          33.9987388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Congaree National Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.7786942,
+          33.7956969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Crater Lake National Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1684837,
+          42.8687932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cuyahoga Valley National Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5681648,
+          41.2809026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Death Valley National Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.0795822,
+          36.5054968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Denali National Park & Preserve"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -150.5030823,
+          63.3342618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dry Tortugas National Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.8730739,
+          24.6279095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Everglades National Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8990288,
+          25.286766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gates of the Arctic National Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -153.3255386,
+          67.6854069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gateway Arch National Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1892738,
+          38.6256744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Glacier National Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.787117,
+          48.7595838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Glacier Bay National Park & Preserve"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -136.9004631,
+          58.6658701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grand Canyon National Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1134186,
+          36.107092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grand Teton National Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.6817627,
+          43.7904282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Great Basin National Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.3,
+          38.983333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Great Sand Dunes National Park & Preserve"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.5944061,
+          37.7914728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Great Smoky Mountains National Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.5498238,
+          35.6116739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Guadalupe Mountains National Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.8687935,
+          31.9039384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Haleakala National Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.1550331,
+          20.7203137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hawaii Volcanoes National Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.199995,
+          19.3832593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hot Springs National Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.0641556,
+          34.5314498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Indiana Dunes National Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.0524335,
+          41.6532682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Isle Royale National Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.9092899,
+          47.9958654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Joshua Tree National Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.9011269,
+          33.8732661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Katmai National Park & Preserve"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.1988792,
+          59.0998464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kenai Fjords National Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.8162651,
+          60.0438465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "King's Canyon National Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.5555267,
+          36.8875843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kobuk Valley National Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -159.4502449,
+          67.4102569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Clark National Park & Preserve"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -154.3033218,
+          60.4300365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lassen Volcanic National Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.4208984,
+          40.4980061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mammoth Cave National Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.1005402,
+          37.1871256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mesa Verde National Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.4620094,
+          37.2304651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mt. Rainier National Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.727314,
+          46.8800244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "National Park of American Samoa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -170.6835937,
+          -14.2582274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "New River Gorge National Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0188974,
+          37.8776175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "North Cascades National Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.2985039,
+          48.771917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Olympic National Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.4982507,
+          47.9690682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Petrified Forest National Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.78204,
+          35.065931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pinnacles National Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.1828041,
+          36.4904554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Redwood National & State Parks"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.002857,
+          41.2143025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rocky Mountain National Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.68367,
+          40.3431424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Saguaro National Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.166615,
+          32.2967359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sequoia National Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.5615346,
+          36.4806541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shenandoah National Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6797905,
+          38.2924965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Theodore Roosevelt National Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.5384178,
+          46.9789641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Virgin Islands National Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.7482681,
+          18.3423055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Voyageurs National Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.8270873,
+          48.4840955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wrangell-St. Elias National Park & Preserve"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -142.9855156,
+          61.7103805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wind Cave National Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4213448,
+          43.6047591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yellowstone National Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.5883789,
+          44.4276507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yosemite National Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.5386314,
+          37.8650966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "White Sands National Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.3256816,
+          32.7872403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zion National Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.0266571,
+          37.298227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Loft Mountain Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6708646,
+          38.2462447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Big Creek Group Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.1092697,
+          35.7522678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bluff Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8153879,
+          33.8321147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Abrams Creek Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.9329866,
+          35.6116281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Balsam Mountain Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.1743029,
+          35.5654191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cades Cove Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.7774971,
+          35.6021959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cataloochee Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0855024,
+          35.6311708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cosby Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.2080468,
+          35.7540303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Deep Creek campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.4353404,
+          35.4610968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mathews Arm Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.2976169,
+          38.7602125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Elkmont Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.5821712,
+          35.6582639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Look Rock Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.9357367,
+          35.6380147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Longleaf Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8270611,
+          33.8360673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Smokemont Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.3115743,
+          35.5578104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mesquite Spring Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.3685709,
+          36.9621852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Blackwoods Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.2031793,
+          44.3097306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lewis Mountain Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.4780721,
+          38.4366945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Big Meadows Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.4364106,
+          38.5299937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Schoodic Woods Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0580978,
+          44.3695161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Seawall Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.3027778,
+          44.2386111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Duck Harbor Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.6534721,
+          44.0277175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Boca Chita Key Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.174474,
+          25.5248399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Flamingo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.9388552,
+          25.1371377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Garden Key"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.8731477,
+          24.6282572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Elliott Key Campgrounds"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.195941,
+          25.4536629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cinnamon Bay Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.7604153,
+          18.3524536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Teklanika River Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.5812607,
+          63.6704051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Concordia Eco-Resort"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.704385,
+          18.312442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Riley Creek Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -148.8985237,
+          63.7311554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hosmer Grove Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.2375389,
+          20.7684079
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Savage River Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.2603,
+          63.7157861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Igloo Creek Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.5845642,
+          63.6087858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wonder Lake Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -150.8617791,
+          63.4540588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "K\u012bpahulu Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.0444832,
+          20.6597142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sanctuary River Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.4732313,
+          63.7225092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mammoth Cave Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.096929,
+          37.1827966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Houchin Ferry Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2378278,
+          37.201432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Namakanipaio Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.2960194,
+          19.4251658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gulpha Gorge Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.0296778,
+          34.5303404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cedar Pass Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.9496564,
+          43.7442665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maple Springs Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.1367791,
+          37.2037348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sunset Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.863718,
+          36.4588451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Furnace Creek Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.868664,
+          36.4630038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Texas Springs Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.8543614,
+          36.4589484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stovepipe Wells Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1478689,
+          36.607956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wildrose Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1881833,
+          36.2657861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Emigrant Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2276833,
+          36.4965583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thorndike Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.0721722,
+          36.2368944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Apgar Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.983781,
+          48.525165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Crags Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.5197868,
+          40.5638078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mahogany Flat Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.0681928,
+          36.2299596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "White Tank Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.0167241,
+          33.9843355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Belle Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.0182321,
+          34.002012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sheep Pass Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.1199093,
+          33.9996817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jumbo Rocks Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.0623802,
+          33.9919309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ryan Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.154778,
+          33.9830471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Prisoners Harbor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.6827733,
+          34.0178827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Black Rock Canyon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.3898654,
+          34.0725289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Indian Cove Campground\n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.1565161,
+          34.0938681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hidden Valley Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.1616197,
+          34.0174049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Indian Cove Group Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.1645493,
+          34.0967301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vail and Vickers Ranch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.05162,
+          34.0048216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Scorpion Ranch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.5585078,
+          34.0486739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Anacapa Island"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.3634471,
+          34.0163476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sentinel Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.6733041,
+          36.7908668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "North Pines Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.5662288,
+          37.7414587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Butte Lake Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.3118076,
+          40.5689314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pinnacles Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.1468946,
+          36.4923703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lower Pines Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.5707973,
+          37.7404855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Summit Lake North Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.4235957,
+          40.4945827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Manzanita Lake Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.5621704,
+          40.5313494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Southwest Walk-In Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.5245975,
+          40.3957615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Summit Lake South Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.424544,
+          40.4905049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Warner Valley Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.3935053,
+          40.4422569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "White River Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.6460763,
+          46.9016202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mather Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.12047,
+          36.0499981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "South Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.9835173,
+          37.2039421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Watchman Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.9864968,
+          37.1981397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sunset Campground Group Site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1745075,
+          37.6229126
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lizard Creek Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.6844354,
+          44.0066504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "North Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1669444,
+          37.6344444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jenny Lake Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.7209888,
+          43.7541576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lava Point Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.0329166,
+          37.3839212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Headwaters Lodge & Cabins at Flagg Ranch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.667603,
+          44.1063183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Devils Garden Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.5891667,
+          38.7769444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gros Ventre Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.6663466,
+          43.6163394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Colter Bay Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.6424345,
+          43.9113492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mazama Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1650398,
+          42.8664499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gold Bluffs Beach Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.069477,
+          41.3836382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Signal Mountain Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.6152089,
+          43.8407675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cougar Rock Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.7942893,
+          46.7673416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jedediah Smith Redwood State Park Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.0862809,
+          41.7958944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "South Beach Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.3613037,
+          47.567858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mill Creek Campground, Del Norte Coast Redwoods State Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.0976351,
+          41.7007163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Elk Prairie Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.0294751,
+          41.3588225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lost Creek Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0388328,
+          42.8799866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mora Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.6131965,
+          47.9202141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ohanapecosh Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.5681709,
+          46.7384314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mowich Lake Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.8631273,
+          46.9327761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ozette Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.6499529,
+          48.1470113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Altair Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.5912399,
+          48.0099335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Deer Park Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.2574686,
+          47.9475696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dosewallips Campground\u00a0(Walk-in Only)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1645952,
+          47.7372633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fairholme Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.9163666,
+          48.068292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kalaloch Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.3756434,
+          47.612911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heart of the Hills Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.4244038,
+          48.0352017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Graves Creek Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.5793234,
+          47.5739451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hoh Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.9351681,
+          47.8590069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "North Fork Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.6485105,
+          47.5728656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Elwha Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.5859711,
+          48.027472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sol Duc Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.8579762,
+          47.9667527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Queets Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.3835405,
+          47.9568141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sage Creek Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.4140373,
+          43.8940055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Staircase Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.3287757,
+          47.5142566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Juniper Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3397972,
+          47.5952534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cottonwood Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.5318239,
+          46.9509355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Roundup Group Horse Camp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.5055556,
+          47.0069444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Elk Mountain Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4938706,
+          43.5656679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Timber Creek Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.8521484,
+          40.3783668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rio Grande Village Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.9560804,
+          29.1802706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cottonwood Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.5226872,
+          29.1370594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pine Spring Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.8263666,
+          31.8954464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dog Canyon Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.8329607,
+          31.9937777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chisos Basin Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3023645,
+          29.2759519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pinyon Flats Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.5050038,
+          37.7455603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gilbert Ray Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.1446905,
+          32.2204439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Longs Peak Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.5583046,
+          40.2750767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Moraine Park Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.596823,
+          40.360083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fruita Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.248652,
+          38.281908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aspenglen Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.5926223,
+          40.3992648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Glacier Basin Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.595413,
+          40.329974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Willow Flat Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.8882351,
+          38.383351
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "North Rim Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.7100575,
+          38.5852602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "East Portal Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.649563,
+          38.526904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Morefield Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.4189956,
+          37.3020761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "South Rim Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.6894045,
+          38.5422412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lower Lehman Creek Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.2383317,
+          39.0171984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Goodell Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.268955,
+          48.6725434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Upper Lehman Creek Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.1859995,
+          38.9148568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wheeler Peak Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.3024974,
+          39.0107791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Baker Creek Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.2422078,
+          38.9856965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Strawberry Creek Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.2728809,
+          39.0606424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Newhalem Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.2608517,
+          48.6710624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gorge Lake Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.1516071,
+          48.715772
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cedar Mesa Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.0846397,
+          38.0073563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Colonial Creek Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.0955144,
+          48.689086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cathedral Valley Campground Road"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.3669207,
+          38.4741602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hozomeen Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.0712384,
+          48.9845763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Squaw Flat Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.8010803,
+          38.1486874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mammoth Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.693691,
+          44.9732575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Madison Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.863115,
+          44.6449718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fishing Bridge RV Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.3691505,
+          44.5648208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Norris Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.6934243,
+          44.738128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bridge Bay Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.4370285,
+          44.5343929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tower Fall Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.3906686,
+          44.8900452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Canyon Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.4879437,
+          44.7354168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Indian Creek Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.7372284,
+          44.8864298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pebble Creek Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.1140321,
+          44.917551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Slough Creek Campground Road"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.3102352,
+          44.9381869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lewis Lake Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.628109,
+          44.281741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grant Village Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.4998981,
+          44.5988847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "North Rim Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0599781,
+          36.2097538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Desert View Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8226373,
+          36.0388743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lost Creek Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.5184128,
+          40.5616042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Juniper Lake Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.2974675,
+          40.4492114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wawona Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.6727463,
+          37.5446496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Camp 4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.6033369,
+          37.7414673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Upper Pines Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.56555,
+          37.7391319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bridalveil Creek Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.6236688,
+          37.6635294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hodgdon Meadow Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.8658333,
+          37.7988889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Crane Flat Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.8060567,
+          37.7467038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tamarack Flat Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.7352191,
+          37.7503173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "White Wolf Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.6482335,
+          37.8704087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yosemite Creek Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.5957336,
+          37.8264309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Porcupine Flat Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.5664265,
+          37.8084577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tuolumne Meadows Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.3570257,
+          37.8735101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Avalanche Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.8186761,
+          48.6780083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bowman Lake Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.2027,
+          48.8287881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kintla Lake Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.3489978,
+          48.935258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Logging Creek Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.1917197,
+          48.6984522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Many Glacier Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.6773424,
+          48.7966765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Quartz Creek Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.2242505,
+          48.7225182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rising Sun Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.5220799,
+          48.6951694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sprague Creek Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.8855457,
+          48.6063944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Two Medicine Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.3644658,
+          48.4914884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fish Creek Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.9852778,
+          48.5477778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cut Bank Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.3830479,
+          48.6019359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Saint Mary Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.4454667,
+          48.7514104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Potwisha Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.8003249,
+          36.5178489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Buckeye Flat Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.7640343,
+          36.5224906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "South Fork Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.7656431,
+          36.3502066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Atwell Mill Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.6690788,
+          36.4649056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cold Springs Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.6124111,
+          36.4511881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lodgepole Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.8257208,
+          36.4907414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dorst Creek Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.8097222,
+          36.6361111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Crystal Springs Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.9624212,
+          36.7455028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sunset Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.9661943,
+          36.7369387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Azalea Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.9656278,
+          36.7435639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sheep Creek Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.6798573,
+          36.7926736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Canyon View Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.6653953,
+          36.7872249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Moraine Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.6611504,
+          36.7857567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lester Ranch site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.3516173,
+          34.038518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kulanaokuaiki Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.2740235,
+          19.3439167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Glacier Bay Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.8937763,
+          58.4508543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Long Pine Key"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.6551213,
+          25.3985323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lewis Mountain Cabins"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.4784021,
+          38.4370076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dunewood Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.9828659,
+          41.6709273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Daisy Farm Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.5955246,
+          48.0919327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Washington Creek Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.1534104,
+          47.916775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bartlett Cove Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.8937763,
+          58.4508543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Glacier Bay Lodge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.882383,
+          58.4546358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Flamingo Visitor Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.9248535,
+          25.1448435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ernest F. Coe Visitor Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.5831307,
+          25.3953272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shark Valley Visitor Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.7653558,
+          25.7569606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gulf Coast Visitor Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3865022,
+          25.8456658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wrangell St. Elias Visitor Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -145.3675263,
+          62.0198809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kennecott Visitor Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -142.8852639,
+          61.481216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Slana Ranger Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -143.9818115,
+          62.7096188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chitina Ranger Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -144.4383162,
+          61.5159376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "End of Nabesna Rd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -143.0291762,
+          62.3703774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kenai Fjords National Park Visitor Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.4398245,
+          60.1162854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Exit Glacier Nature Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.631557,
+          60.1883267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Denali Visitor Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -148.9170621,
+          63.7308595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Murie Science & Learning Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -148.9176607,
+          63.7336074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Walter Harper Talkeetna Ranger Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -150.1170887,
+          62.322445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Denali Bus Depot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -148.8974272,
+          63.7365418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eielson Visitor Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -150.3114272,
+          63.4309992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Toklat River Contact Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -150.0432347,
+          63.5215539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Glacier Bay National Park Visitor Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.8824918,
+          58.4546522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Glacier Bay National Park Visitor Information Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.8854,
+          58.4543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Port Alsworth Visitor Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -154.32274,
+          60.1973659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "King Salmon Visitor Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.6685813,
+          58.6828493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brooks Camp Visitor Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.7791667,
+          58.5559349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Robert F. Griggs Visitor Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.3828108,
+          58.3685768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Akami-Uapishk\u1d41-KakKasuak-Mealy Mountains National Park Reserve"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3476971,
+          53.5722647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aulavik National Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.590888,
+          73.7482485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Auyuittuq National Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.055959,
+          67.489532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Banff National Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.9280561,
+          51.4968464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bruce Peninsula"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3333333,
+          45.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cape Breton Highlands"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.59825,
+          46.749861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Elk Island National Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.8619477,
+          53.6076246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Parc national Forillon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.2726825,
+          48.8156672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fundy National Park Of Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.031631,
+          45.6137768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Georgian Bay Islands National Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.8699554,
+          44.8743165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Glacier National Park of Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.5297595,
+          51.335289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grasslands National Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.5097378,
+          49.1509402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gros Morne National Park Of Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.755758,
+          49.652015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gulf Islands National Park Reserve"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1622203,
+          48.7861101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gwaii Haanas National Park Reserve and Haida Heritage Site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -131.5582291,
+          52.4682741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ivvavik National Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -139.833984,
+          69.094186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jasper National Park Of Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.9542939,
+          52.873383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kejimkujik National Park and National Historic Site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.213655,
+          44.435209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kluane National Park and Reserve"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -139.5,
+          60.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kootenay National Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.9592101,
+          50.9769367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kouchibouguac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.055854,
+          46.795758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Parc national de la Mauricie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7681748,
+          46.7332984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "R\u00e9serve de parc national de l'Archipel-de-Mingan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.6242163,
+          50.2205446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mount Revelstoke National Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.0422245,
+          51.0926042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "N\u00e1\u00e1ts'\u012fhch'oh National Park Reserve"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -128.5439,
+          62.6706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nahanni National Park Reserve of Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -125.5004695,
+          61.5006973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pacific Rim National Park Reserve"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -125.156359,
+          48.7919313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Point Pelee National Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.51844,
+          41.962772
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Prince Albert National Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.3888857,
+          53.9256904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Prince Edward Island National Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1739467,
+          46.4264574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pukaskwa National Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2933777,
+          48.5930342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Qausuittuq National Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.0315081,
+          76.0281123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Quttinirpaaq National Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.1090828,
+          81.4672471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Riding Mountain National Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.9712948,
+          50.6583616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rouge National Urban Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.1722545,
+          43.8186288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sable Island National Park Reserve"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.9067654,
+          43.9320919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sirmilik National Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.7820558,
+          73.0737535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terra Nova National Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.9655172,
+          48.5252647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thaidene Nene National Park Reserve"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.5210441,
+          62.8540225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thousand Islands National Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.0507921,
+          44.3425804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Torngat Mountains National Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.9933748,
+          59.2246051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tuktut Nogait National Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.748991,
+          68.818748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ukkusiksalik National Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.986588,
+          66.043133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vuntut National Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -139.858033,
+          68.384944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wapusk National Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2290221,
+          57.7938508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Waterton Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.908563,
+          49.05096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wood Buffalo National Park of Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.8764021,
+          59.4395031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yoho National Park Of Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.5833333,
+          51.4666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Portland, OR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6783624,
+          45.5152258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Juneau, AK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -134.4201772,
+          58.3004937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Slana Ranger Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -143.981595,
+          62.7096236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "End of Nabesna Rd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -143.0291547,
+          62.370366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chitina Ranger Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -144.4382885,
+          61.5159004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kennecott Visitor Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -142.8851411,
+          61.4812461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Denali Visitor Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -148.9124678,
+          63.7311379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Anchorage, AK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.8996587,
+          61.2175744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kenai Fjords National Park Visitor Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.4403561,
+          60.1163356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Homer, AK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -151.5299053,
+          59.648085
+        ]
+      }
+    }
+  ]
+}
