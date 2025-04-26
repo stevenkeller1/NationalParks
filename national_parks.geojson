@@ -4,7 +4,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Acadia National Park"
+        "name": "Acadia National Park",
+        "folder": "US National Parks"
       },
       "geometry": {
         "type": "Point",
@@ -17,7 +18,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Arches National Park"
+        "name": "Arches National Park",
+        "folder": "US National Parks"
       },
       "geometry": {
         "type": "Point",
@@ -30,7 +32,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Badlands National Park"
+        "name": "Badlands National Park",
+        "folder": "US National Parks"
       },
       "geometry": {
         "type": "Point",
@@ -43,7 +46,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Big Bend National Park"
+        "name": "Big Bend National Park",
+        "folder": "US National Parks"
       },
       "geometry": {
         "type": "Point",
@@ -56,7 +60,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Biscayne National Park"
+        "name": "Biscayne National Park",
+        "folder": "US National Parks"
       },
       "geometry": {
         "type": "Point",
@@ -69,7 +74,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Black Canyon of the Gunnison National Park"
+        "name": "Black Canyon of the Gunnison National Park",
+        "folder": "US National Parks"
       },
       "geometry": {
         "type": "Point",
@@ -82,7 +88,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Bryce Canyon National Park"
+        "name": "Bryce Canyon National Park",
+        "folder": "US National Parks"
       },
       "geometry": {
         "type": "Point",
@@ -95,7 +102,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Canyonlands National Park"
+        "name": "Canyonlands National Park",
+        "folder": "US National Parks"
       },
       "geometry": {
         "type": "Point",
@@ -108,7 +116,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Capitol Reef National Park"
+        "name": "Capitol Reef National Park",
+        "folder": "US National Parks"
       },
       "geometry": {
         "type": "Point",
@@ -121,7 +130,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Carlsbad Caverns National Park"
+        "name": "Carlsbad Caverns National Park",
+        "folder": "US National Parks"
       },
       "geometry": {
         "type": "Point",
@@ -134,7 +144,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Channel Islands National Park"
+        "name": "Channel Islands National Park",
+        "folder": "US National Parks"
       },
       "geometry": {
         "type": "Point",
@@ -147,7 +158,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Congaree National Park"
+        "name": "Congaree National Park",
+        "folder": "US National Parks"
       },
       "geometry": {
         "type": "Point",
@@ -160,7 +172,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Crater Lake National Park"
+        "name": "Crater Lake National Park",
+        "folder": "US National Parks"
       },
       "geometry": {
         "type": "Point",
@@ -173,7 +186,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Cuyahoga Valley National Park"
+        "name": "Cuyahoga Valley National Park",
+        "folder": "US National Parks"
       },
       "geometry": {
         "type": "Point",
@@ -186,7 +200,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Death Valley National Park"
+        "name": "Death Valley National Park",
+        "folder": "US National Parks"
       },
       "geometry": {
         "type": "Point",
@@ -199,7 +214,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Denali National Park & Preserve"
+        "name": "Denali National Park & Preserve",
+        "folder": "US National Parks"
       },
       "geometry": {
         "type": "Point",
@@ -212,7 +228,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Dry Tortugas National Park"
+        "name": "Dry Tortugas National Park",
+        "folder": "US National Parks"
       },
       "geometry": {
         "type": "Point",
@@ -225,7 +242,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Everglades National Park"
+        "name": "Everglades National Park",
+        "folder": "US National Parks"
       },
       "geometry": {
         "type": "Point",
@@ -238,7 +256,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Gates of the Arctic National Park"
+        "name": "Gates of the Arctic National Park",
+        "folder": "US National Parks"
       },
       "geometry": {
         "type": "Point",
@@ -251,7 +270,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Gateway Arch National Park"
+        "name": "Gateway Arch National Park",
+        "folder": "US National Parks"
       },
       "geometry": {
         "type": "Point",
@@ -264,7 +284,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Glacier National Park"
+        "name": "Glacier National Park",
+        "folder": "US National Parks"
       },
       "geometry": {
         "type": "Point",
@@ -277,7 +298,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Glacier Bay National Park & Preserve"
+        "name": "Glacier Bay National Park & Preserve",
+        "folder": "US National Parks"
       },
       "geometry": {
         "type": "Point",
@@ -290,7 +312,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Grand Canyon National Park"
+        "name": "Grand Canyon National Park",
+        "folder": "US National Parks"
       },
       "geometry": {
         "type": "Point",
@@ -303,7 +326,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Grand Teton National Park"
+        "name": "Grand Teton National Park",
+        "folder": "US National Parks"
       },
       "geometry": {
         "type": "Point",
@@ -316,7 +340,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Great Basin National Park"
+        "name": "Great Basin National Park",
+        "folder": "US National Parks"
       },
       "geometry": {
         "type": "Point",
@@ -329,7 +354,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Great Sand Dunes National Park & Preserve"
+        "name": "Great Sand Dunes National Park & Preserve",
+        "folder": "US National Parks"
       },
       "geometry": {
         "type": "Point",
@@ -342,7 +368,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Great Smoky Mountains National Park"
+        "name": "Great Smoky Mountains National Park",
+        "folder": "US National Parks"
       },
       "geometry": {
         "type": "Point",
@@ -355,7 +382,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Guadalupe Mountains National Park"
+        "name": "Guadalupe Mountains National Park",
+        "folder": "US National Parks"
       },
       "geometry": {
         "type": "Point",
@@ -368,7 +396,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Haleakala National Park"
+        "name": "Haleakala National Park",
+        "folder": "US National Parks"
       },
       "geometry": {
         "type": "Point",
@@ -381,7 +410,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Hawaii Volcanoes National Park"
+        "name": "Hawaii Volcanoes National Park",
+        "folder": "US National Parks"
       },
       "geometry": {
         "type": "Point",
@@ -394,7 +424,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Hot Springs National Park"
+        "name": "Hot Springs National Park",
+        "folder": "US National Parks"
       },
       "geometry": {
         "type": "Point",
@@ -407,7 +438,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Indiana Dunes National Park"
+        "name": "Indiana Dunes National Park",
+        "folder": "US National Parks"
       },
       "geometry": {
         "type": "Point",
@@ -420,7 +452,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Isle Royale National Park"
+        "name": "Isle Royale National Park",
+        "folder": "US National Parks"
       },
       "geometry": {
         "type": "Point",
@@ -433,7 +466,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Joshua Tree National Park"
+        "name": "Joshua Tree National Park",
+        "folder": "US National Parks"
       },
       "geometry": {
         "type": "Point",
@@ -446,7 +480,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Katmai National Park & Preserve"
+        "name": "Katmai National Park & Preserve",
+        "folder": "US National Parks"
       },
       "geometry": {
         "type": "Point",
@@ -459,7 +494,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Kenai Fjords National Park"
+        "name": "Kenai Fjords National Park",
+        "folder": "US National Parks"
       },
       "geometry": {
         "type": "Point",
@@ -472,7 +508,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "King's Canyon National Park"
+        "name": "King's Canyon National Park",
+        "folder": "US National Parks"
       },
       "geometry": {
         "type": "Point",
@@ -485,7 +522,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Kobuk Valley National Park"
+        "name": "Kobuk Valley National Park",
+        "folder": "US National Parks"
       },
       "geometry": {
         "type": "Point",
@@ -498,7 +536,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Lake Clark National Park & Preserve"
+        "name": "Lake Clark National Park & Preserve",
+        "folder": "US National Parks"
       },
       "geometry": {
         "type": "Point",
@@ -511,7 +550,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Lassen Volcanic National Park"
+        "name": "Lassen Volcanic National Park",
+        "folder": "US National Parks"
       },
       "geometry": {
         "type": "Point",
@@ -524,7 +564,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Mammoth Cave National Park"
+        "name": "Mammoth Cave National Park",
+        "folder": "US National Parks"
       },
       "geometry": {
         "type": "Point",
@@ -537,7 +578,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Mesa Verde National Park"
+        "name": "Mesa Verde National Park",
+        "folder": "US National Parks"
       },
       "geometry": {
         "type": "Point",
@@ -550,7 +592,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Mt. Rainier National Park"
+        "name": "Mt. Rainier National Park",
+        "folder": "US National Parks"
       },
       "geometry": {
         "type": "Point",
@@ -563,7 +606,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "National Park of American Samoa"
+        "name": "National Park of American Samoa",
+        "folder": "US National Parks"
       },
       "geometry": {
         "type": "Point",
@@ -576,7 +620,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "New River Gorge National Park"
+        "name": "New River Gorge National Park",
+        "folder": "US National Parks"
       },
       "geometry": {
         "type": "Point",
@@ -589,7 +634,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "North Cascades National Park"
+        "name": "North Cascades National Park",
+        "folder": "US National Parks"
       },
       "geometry": {
         "type": "Point",
@@ -602,7 +648,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Olympic National Park"
+        "name": "Olympic National Park",
+        "folder": "US National Parks"
       },
       "geometry": {
         "type": "Point",
@@ -615,7 +662,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Petrified Forest National Park"
+        "name": "Petrified Forest National Park",
+        "folder": "US National Parks"
       },
       "geometry": {
         "type": "Point",
@@ -628,7 +676,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Pinnacles National Park"
+        "name": "Pinnacles National Park",
+        "folder": "US National Parks"
       },
       "geometry": {
         "type": "Point",
@@ -641,7 +690,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Redwood National & State Parks"
+        "name": "Redwood National & State Parks",
+        "folder": "US National Parks"
       },
       "geometry": {
         "type": "Point",
@@ -654,7 +704,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Rocky Mountain National Park"
+        "name": "Rocky Mountain National Park",
+        "folder": "US National Parks"
       },
       "geometry": {
         "type": "Point",
@@ -667,7 +718,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Saguaro National Park"
+        "name": "Saguaro National Park",
+        "folder": "US National Parks"
       },
       "geometry": {
         "type": "Point",
@@ -680,7 +732,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Sequoia National Park"
+        "name": "Sequoia National Park",
+        "folder": "US National Parks"
       },
       "geometry": {
         "type": "Point",
@@ -693,7 +746,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Shenandoah National Park"
+        "name": "Shenandoah National Park",
+        "folder": "US National Parks"
       },
       "geometry": {
         "type": "Point",
@@ -706,7 +760,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Theodore Roosevelt National Park"
+        "name": "Theodore Roosevelt National Park",
+        "folder": "US National Parks"
       },
       "geometry": {
         "type": "Point",
@@ -719,7 +774,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Virgin Islands National Park"
+        "name": "Virgin Islands National Park",
+        "folder": "US National Parks"
       },
       "geometry": {
         "type": "Point",
@@ -732,7 +788,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Voyageurs National Park"
+        "name": "Voyageurs National Park",
+        "folder": "US National Parks"
       },
       "geometry": {
         "type": "Point",
@@ -745,7 +802,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Wrangell-St. Elias National Park & Preserve"
+        "name": "Wrangell-St. Elias National Park & Preserve",
+        "folder": "US National Parks"
       },
       "geometry": {
         "type": "Point",
@@ -758,7 +816,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Wind Cave National Park"
+        "name": "Wind Cave National Park",
+        "folder": "US National Parks"
       },
       "geometry": {
         "type": "Point",
@@ -771,7 +830,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Yellowstone National Park"
+        "name": "Yellowstone National Park",
+        "folder": "US National Parks"
       },
       "geometry": {
         "type": "Point",
@@ -784,7 +844,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Yosemite National Park"
+        "name": "Yosemite National Park",
+        "folder": "US National Parks"
       },
       "geometry": {
         "type": "Point",
@@ -797,7 +858,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "White Sands National Park"
+        "name": "White Sands National Park",
+        "folder": "US National Parks"
       },
       "geometry": {
         "type": "Point",
@@ -810,7 +872,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Zion National Park"
+        "name": "Zion National Park",
+        "folder": "US National Parks"
       },
       "geometry": {
         "type": "Point",
@@ -823,7 +886,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Loft Mountain Campground"
+        "name": "Loft Mountain Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -836,7 +900,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Big Creek Group Campground"
+        "name": "Big Creek Group Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -849,7 +914,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Bluff Campground"
+        "name": "Bluff Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -862,7 +928,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Abrams Creek Campground"
+        "name": "Abrams Creek Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -875,7 +942,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Balsam Mountain Campground"
+        "name": "Balsam Mountain Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -888,7 +956,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Cades Cove Campground"
+        "name": "Cades Cove Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -901,7 +970,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Cataloochee Campground"
+        "name": "Cataloochee Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -914,7 +984,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Cosby Campground"
+        "name": "Cosby Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -927,7 +998,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Deep Creek campground"
+        "name": "Deep Creek campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -940,7 +1012,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Mathews Arm Campground"
+        "name": "Mathews Arm Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -953,7 +1026,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Elkmont Campground"
+        "name": "Elkmont Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -966,7 +1040,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Look Rock Campground"
+        "name": "Look Rock Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -979,7 +1054,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Longleaf Campground"
+        "name": "Longleaf Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -992,7 +1068,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Smokemont Campground"
+        "name": "Smokemont Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -1005,7 +1082,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Mesquite Spring Campground"
+        "name": "Mesquite Spring Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -1018,7 +1096,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Blackwoods Campground"
+        "name": "Blackwoods Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -1031,7 +1110,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Lewis Mountain Campground"
+        "name": "Lewis Mountain Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -1044,7 +1124,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Big Meadows Campground"
+        "name": "Big Meadows Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -1057,7 +1138,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Schoodic Woods Campground"
+        "name": "Schoodic Woods Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -1070,7 +1152,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Seawall Campground"
+        "name": "Seawall Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -1083,7 +1166,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Duck Harbor Campground"
+        "name": "Duck Harbor Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -1096,7 +1180,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Boca Chita Key Campground"
+        "name": "Boca Chita Key Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -1109,7 +1194,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Flamingo"
+        "name": "Flamingo",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -1122,7 +1208,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Garden Key"
+        "name": "Garden Key",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -1135,7 +1222,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Elliott Key Campgrounds"
+        "name": "Elliott Key Campgrounds",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -1148,7 +1236,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Cinnamon Bay Campground"
+        "name": "Cinnamon Bay Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -1161,7 +1250,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Teklanika River Campground"
+        "name": "Teklanika River Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -1174,7 +1264,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Concordia Eco-Resort"
+        "name": "Concordia Eco-Resort",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -1187,7 +1278,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Riley Creek Campground"
+        "name": "Riley Creek Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -1200,7 +1292,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Hosmer Grove Campground"
+        "name": "Hosmer Grove Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -1213,7 +1306,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Savage River Campground"
+        "name": "Savage River Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -1226,7 +1320,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Igloo Creek Campground"
+        "name": "Igloo Creek Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -1239,7 +1334,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Wonder Lake Campground"
+        "name": "Wonder Lake Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -1252,7 +1348,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "K\u012bpahulu Campground"
+        "name": "K\u012bpahulu Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -1265,7 +1362,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Sanctuary River Campground"
+        "name": "Sanctuary River Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -1278,7 +1376,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Mammoth Cave Campground"
+        "name": "Mammoth Cave Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -1291,7 +1390,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Houchin Ferry Campground"
+        "name": "Houchin Ferry Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -1304,7 +1404,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Namakanipaio Campground"
+        "name": "Namakanipaio Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -1317,7 +1418,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Gulpha Gorge Campground"
+        "name": "Gulpha Gorge Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -1330,7 +1432,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Cedar Pass Campground"
+        "name": "Cedar Pass Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -1343,7 +1446,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Maple Springs Campground"
+        "name": "Maple Springs Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -1356,7 +1460,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Sunset Campground"
+        "name": "Sunset Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -1369,7 +1474,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Furnace Creek Campground"
+        "name": "Furnace Creek Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -1382,7 +1488,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Texas Springs Campground"
+        "name": "Texas Springs Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -1395,7 +1502,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Stovepipe Wells Campground"
+        "name": "Stovepipe Wells Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -1408,7 +1516,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Wildrose Campground"
+        "name": "Wildrose Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -1421,7 +1530,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Emigrant Campground"
+        "name": "Emigrant Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -1434,7 +1544,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Thorndike Campground"
+        "name": "Thorndike Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -1447,7 +1558,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Apgar Campground"
+        "name": "Apgar Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -1460,7 +1572,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Crags Campground"
+        "name": "Crags Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -1473,7 +1586,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Mahogany Flat Campground"
+        "name": "Mahogany Flat Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -1486,7 +1600,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "White Tank Campground"
+        "name": "White Tank Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -1499,7 +1614,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Belle Campground"
+        "name": "Belle Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -1512,7 +1628,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Sheep Pass Campground"
+        "name": "Sheep Pass Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -1525,7 +1642,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Jumbo Rocks Campground"
+        "name": "Jumbo Rocks Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -1538,7 +1656,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Ryan Campground"
+        "name": "Ryan Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -1551,7 +1670,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Prisoners Harbor"
+        "name": "Prisoners Harbor",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -1564,7 +1684,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Black Rock Canyon"
+        "name": "Black Rock Canyon",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -1577,7 +1698,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Indian Cove Campground\n"
+        "name": "Indian Cove Campground\n",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -1590,7 +1712,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Hidden Valley Campground"
+        "name": "Hidden Valley Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -1603,7 +1726,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Indian Cove Group Campground"
+        "name": "Indian Cove Group Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -1616,7 +1740,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Vail and Vickers Ranch"
+        "name": "Vail and Vickers Ranch",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -1629,7 +1754,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Scorpion Ranch"
+        "name": "Scorpion Ranch",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -1642,7 +1768,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Anacapa Island"
+        "name": "Anacapa Island",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -1655,7 +1782,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Sentinel Campground"
+        "name": "Sentinel Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -1668,7 +1796,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "North Pines Campground"
+        "name": "North Pines Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -1681,7 +1810,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Butte Lake Campground"
+        "name": "Butte Lake Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -1694,7 +1824,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Pinnacles Campground"
+        "name": "Pinnacles Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -1707,7 +1838,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Lower Pines Campground"
+        "name": "Lower Pines Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -1720,7 +1852,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Summit Lake North Campground"
+        "name": "Summit Lake North Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -1733,7 +1866,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Manzanita Lake Campground"
+        "name": "Manzanita Lake Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -1746,7 +1880,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Southwest Walk-In Campground"
+        "name": "Southwest Walk-In Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -1759,7 +1894,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Summit Lake South Campground"
+        "name": "Summit Lake South Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -1772,7 +1908,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Warner Valley Campground"
+        "name": "Warner Valley Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -1785,7 +1922,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "White River Campground"
+        "name": "White River Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -1798,7 +1936,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Mather Campground"
+        "name": "Mather Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -1811,7 +1950,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "South Campground"
+        "name": "South Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -1824,7 +1964,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Watchman Campground"
+        "name": "Watchman Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -1837,7 +1978,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Sunset Campground Group Site"
+        "name": "Sunset Campground Group Site",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -1850,7 +1992,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Lizard Creek Campground"
+        "name": "Lizard Creek Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -1863,7 +2006,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "North Campground"
+        "name": "North Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -1876,7 +2020,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Jenny Lake Campground"
+        "name": "Jenny Lake Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -1889,7 +2034,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Lava Point Campground"
+        "name": "Lava Point Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -1902,7 +2048,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Headwaters Lodge & Cabins at Flagg Ranch"
+        "name": "Headwaters Lodge & Cabins at Flagg Ranch",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -1915,7 +2062,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Devils Garden Campground"
+        "name": "Devils Garden Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -1928,7 +2076,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Gros Ventre Campground"
+        "name": "Gros Ventre Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -1941,7 +2090,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Colter Bay Campground"
+        "name": "Colter Bay Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -1954,7 +2104,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Mazama Campground"
+        "name": "Mazama Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -1967,7 +2118,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Gold Bluffs Beach Campground"
+        "name": "Gold Bluffs Beach Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -1980,7 +2132,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Signal Mountain Campground"
+        "name": "Signal Mountain Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -1993,7 +2146,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Cougar Rock Campground"
+        "name": "Cougar Rock Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -2006,7 +2160,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Jedediah Smith Redwood State Park Campground"
+        "name": "Jedediah Smith Redwood State Park Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -2019,7 +2174,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "South Beach Campground"
+        "name": "South Beach Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -2032,7 +2188,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Mill Creek Campground, Del Norte Coast Redwoods State Park"
+        "name": "Mill Creek Campground, Del Norte Coast Redwoods State Park",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -2045,7 +2202,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Elk Prairie Campground"
+        "name": "Elk Prairie Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -2058,7 +2216,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Lost Creek Campground"
+        "name": "Lost Creek Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -2071,7 +2230,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Mora Campground"
+        "name": "Mora Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -2084,7 +2244,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Ohanapecosh Campground"
+        "name": "Ohanapecosh Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -2097,7 +2258,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Mowich Lake Campground"
+        "name": "Mowich Lake Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -2110,7 +2272,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Ozette Campground"
+        "name": "Ozette Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -2123,7 +2286,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Altair Campground"
+        "name": "Altair Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -2136,7 +2300,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Deer Park Campground"
+        "name": "Deer Park Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -2149,7 +2314,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Dosewallips Campground\u00a0(Walk-in Only)"
+        "name": "Dosewallips Campground\u00a0(Walk-in Only)",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -2162,7 +2328,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Fairholme Campground"
+        "name": "Fairholme Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -2175,7 +2342,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Kalaloch Campground"
+        "name": "Kalaloch Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -2188,7 +2356,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Heart of the Hills Campground"
+        "name": "Heart of the Hills Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -2201,7 +2370,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Graves Creek Campground"
+        "name": "Graves Creek Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -2214,7 +2384,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Hoh Campground"
+        "name": "Hoh Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -2227,7 +2398,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "North Fork Campground"
+        "name": "North Fork Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -2240,7 +2412,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Elwha Campground"
+        "name": "Elwha Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -2253,7 +2426,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Sol Duc Campground"
+        "name": "Sol Duc Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -2266,7 +2440,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Queets Campground"
+        "name": "Queets Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -2279,7 +2454,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Sage Creek Campground"
+        "name": "Sage Creek Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -2292,7 +2468,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Staircase Campground"
+        "name": "Staircase Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -2305,7 +2482,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Juniper Campground"
+        "name": "Juniper Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -2318,7 +2496,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Cottonwood Campground"
+        "name": "Cottonwood Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -2331,7 +2510,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Roundup Group Horse Camp"
+        "name": "Roundup Group Horse Camp",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -2344,7 +2524,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Elk Mountain Campground"
+        "name": "Elk Mountain Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -2357,7 +2538,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Timber Creek Campground"
+        "name": "Timber Creek Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -2370,7 +2552,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Rio Grande Village Campground"
+        "name": "Rio Grande Village Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -2383,7 +2566,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Cottonwood Campground"
+        "name": "Cottonwood Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -2396,7 +2580,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Pine Spring Campground"
+        "name": "Pine Spring Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -2409,7 +2594,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Dog Canyon Campground"
+        "name": "Dog Canyon Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -2422,7 +2608,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Chisos Basin Campground"
+        "name": "Chisos Basin Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -2435,7 +2622,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Pinyon Flats Campground"
+        "name": "Pinyon Flats Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -2448,7 +2636,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Gilbert Ray Campground"
+        "name": "Gilbert Ray Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -2461,7 +2650,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Longs Peak Campground"
+        "name": "Longs Peak Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -2474,7 +2664,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Moraine Park Campground"
+        "name": "Moraine Park Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -2487,7 +2678,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Fruita Campground"
+        "name": "Fruita Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -2500,7 +2692,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Aspenglen Campground"
+        "name": "Aspenglen Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -2513,7 +2706,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Glacier Basin Campground"
+        "name": "Glacier Basin Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -2526,7 +2720,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Willow Flat Campground"
+        "name": "Willow Flat Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -2539,7 +2734,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "North Rim Campground"
+        "name": "North Rim Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -2552,7 +2748,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "East Portal Campground"
+        "name": "East Portal Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -2565,7 +2762,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Morefield Campground"
+        "name": "Morefield Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -2578,7 +2776,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "South Rim Campground"
+        "name": "South Rim Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -2591,7 +2790,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Lower Lehman Creek Campground"
+        "name": "Lower Lehman Creek Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -2604,7 +2804,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Goodell Campground"
+        "name": "Goodell Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -2617,7 +2818,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Upper Lehman Creek Campground"
+        "name": "Upper Lehman Creek Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -2630,7 +2832,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Wheeler Peak Campground"
+        "name": "Wheeler Peak Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -2643,7 +2846,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Baker Creek Campground"
+        "name": "Baker Creek Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -2656,7 +2860,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Strawberry Creek Campground"
+        "name": "Strawberry Creek Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -2669,7 +2874,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Newhalem Campground"
+        "name": "Newhalem Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -2682,7 +2888,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Gorge Lake Campground"
+        "name": "Gorge Lake Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -2695,7 +2902,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Cedar Mesa Campground"
+        "name": "Cedar Mesa Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -2708,7 +2916,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Colonial Creek Campground"
+        "name": "Colonial Creek Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -2721,7 +2930,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Cathedral Valley Campground Road"
+        "name": "Cathedral Valley Campground Road",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -2734,7 +2944,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Hozomeen Campground"
+        "name": "Hozomeen Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -2747,7 +2958,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Squaw Flat Campground"
+        "name": "Squaw Flat Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -2760,7 +2972,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Mammoth Campground"
+        "name": "Mammoth Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -2773,7 +2986,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Madison Campground"
+        "name": "Madison Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -2786,7 +3000,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Fishing Bridge RV Park"
+        "name": "Fishing Bridge RV Park",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -2799,7 +3014,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Norris Campground"
+        "name": "Norris Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -2812,7 +3028,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Bridge Bay Campground"
+        "name": "Bridge Bay Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -2825,7 +3042,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Tower Fall Campground"
+        "name": "Tower Fall Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -2838,7 +3056,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Canyon Campground"
+        "name": "Canyon Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -2851,7 +3070,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Indian Creek Campground"
+        "name": "Indian Creek Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -2864,7 +3084,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Pebble Creek Campground"
+        "name": "Pebble Creek Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -2877,7 +3098,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Slough Creek Campground Road"
+        "name": "Slough Creek Campground Road",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -2890,7 +3112,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Lewis Lake Campground"
+        "name": "Lewis Lake Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -2903,7 +3126,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Grant Village Campground"
+        "name": "Grant Village Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -2916,7 +3140,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "North Rim Campground"
+        "name": "North Rim Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -2929,7 +3154,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Desert View Campground"
+        "name": "Desert View Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -2942,7 +3168,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Lost Creek Campground"
+        "name": "Lost Creek Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -2955,7 +3182,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Juniper Lake Campground"
+        "name": "Juniper Lake Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -2968,7 +3196,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Wawona Campground"
+        "name": "Wawona Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -2981,7 +3210,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Camp 4"
+        "name": "Camp 4",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -2994,7 +3224,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Upper Pines Campground"
+        "name": "Upper Pines Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -3007,7 +3238,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Bridalveil Creek Campground"
+        "name": "Bridalveil Creek Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -3020,7 +3252,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Hodgdon Meadow Campground"
+        "name": "Hodgdon Meadow Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -3033,7 +3266,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Crane Flat Campground"
+        "name": "Crane Flat Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -3046,7 +3280,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Tamarack Flat Campground"
+        "name": "Tamarack Flat Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -3059,7 +3294,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "White Wolf Campground"
+        "name": "White Wolf Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -3072,7 +3308,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Yosemite Creek Campground"
+        "name": "Yosemite Creek Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -3085,7 +3322,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Porcupine Flat Campground"
+        "name": "Porcupine Flat Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -3098,7 +3336,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Tuolumne Meadows Campground"
+        "name": "Tuolumne Meadows Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -3111,7 +3350,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Avalanche Campground"
+        "name": "Avalanche Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -3124,7 +3364,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Bowman Lake Campground"
+        "name": "Bowman Lake Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -3137,7 +3378,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Kintla Lake Campground"
+        "name": "Kintla Lake Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -3150,7 +3392,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Logging Creek Campground"
+        "name": "Logging Creek Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -3163,7 +3406,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Many Glacier Campground"
+        "name": "Many Glacier Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -3176,7 +3420,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Quartz Creek Campground"
+        "name": "Quartz Creek Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -3189,7 +3434,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Rising Sun Campground"
+        "name": "Rising Sun Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -3202,7 +3448,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Sprague Creek Campground"
+        "name": "Sprague Creek Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -3215,7 +3462,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Two Medicine Campground"
+        "name": "Two Medicine Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -3228,7 +3476,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Fish Creek Campground"
+        "name": "Fish Creek Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -3241,7 +3490,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Cut Bank Campground"
+        "name": "Cut Bank Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -3254,7 +3504,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Saint Mary Campground"
+        "name": "Saint Mary Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -3267,7 +3518,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Potwisha Campground"
+        "name": "Potwisha Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -3280,7 +3532,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Buckeye Flat Campground"
+        "name": "Buckeye Flat Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -3293,7 +3546,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "South Fork Campground"
+        "name": "South Fork Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -3306,7 +3560,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Atwell Mill Campground"
+        "name": "Atwell Mill Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -3319,7 +3574,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Cold Springs Campground"
+        "name": "Cold Springs Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -3332,7 +3588,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Lodgepole Campground"
+        "name": "Lodgepole Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -3345,7 +3602,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Dorst Creek Campground"
+        "name": "Dorst Creek Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -3358,7 +3616,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Crystal Springs Campground"
+        "name": "Crystal Springs Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -3371,7 +3630,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Sunset Campground"
+        "name": "Sunset Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -3384,7 +3644,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Azalea Campground"
+        "name": "Azalea Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -3397,7 +3658,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Sheep Creek Campground"
+        "name": "Sheep Creek Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -3410,7 +3672,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Canyon View Campground"
+        "name": "Canyon View Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -3423,7 +3686,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Moraine Campground"
+        "name": "Moraine Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -3436,7 +3700,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Lester Ranch site"
+        "name": "Lester Ranch site",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -3449,7 +3714,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Kulanaokuaiki Campground"
+        "name": "Kulanaokuaiki Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -3462,7 +3728,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Glacier Bay Campground"
+        "name": "Glacier Bay Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -3475,7 +3742,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Long Pine Key"
+        "name": "Long Pine Key",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -3488,7 +3756,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Lewis Mountain Cabins"
+        "name": "Lewis Mountain Cabins",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -3501,7 +3770,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Dunewood Campground"
+        "name": "Dunewood Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -3514,7 +3784,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Daisy Farm Campground"
+        "name": "Daisy Farm Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -3527,7 +3798,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Washington Creek Campground"
+        "name": "Washington Creek Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -3540,7 +3812,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Bartlett Cove Campground"
+        "name": "Bartlett Cove Campground",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -3553,7 +3826,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Glacier Bay Lodge"
+        "name": "Glacier Bay Lodge",
+        "folder": "Campgrounds"
       },
       "geometry": {
         "type": "Point",
@@ -3566,7 +3840,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Flamingo Visitor Center"
+        "name": "Flamingo Visitor Center",
+        "folder": "Visitor Centers"
       },
       "geometry": {
         "type": "Point",
@@ -3579,7 +3854,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Ernest F. Coe Visitor Center"
+        "name": "Ernest F. Coe Visitor Center",
+        "folder": "Visitor Centers"
       },
       "geometry": {
         "type": "Point",
@@ -3592,7 +3868,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Shark Valley Visitor Center"
+        "name": "Shark Valley Visitor Center",
+        "folder": "Visitor Centers"
       },
       "geometry": {
         "type": "Point",
@@ -3605,7 +3882,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Gulf Coast Visitor Center"
+        "name": "Gulf Coast Visitor Center",
+        "folder": "Visitor Centers"
       },
       "geometry": {
         "type": "Point",
@@ -3618,7 +3896,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Wrangell St. Elias Visitor Center"
+        "name": "Wrangell St. Elias Visitor Center",
+        "folder": "Visitor Centers"
       },
       "geometry": {
         "type": "Point",
@@ -3631,7 +3910,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Kennecott Visitor Center"
+        "name": "Kennecott Visitor Center",
+        "folder": "Visitor Centers"
       },
       "geometry": {
         "type": "Point",
@@ -3644,7 +3924,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Slana Ranger Station"
+        "name": "Slana Ranger Station",
+        "folder": "Visitor Centers"
       },
       "geometry": {
         "type": "Point",
@@ -3657,7 +3938,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Chitina Ranger Station"
+        "name": "Chitina Ranger Station",
+        "folder": "Visitor Centers"
       },
       "geometry": {
         "type": "Point",
@@ -3670,7 +3952,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "End of Nabesna Rd"
+        "name": "End of Nabesna Rd",
+        "folder": "Visitor Centers"
       },
       "geometry": {
         "type": "Point",
@@ -3683,7 +3966,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Kenai Fjords National Park Visitor Center"
+        "name": "Kenai Fjords National Park Visitor Center",
+        "folder": "Visitor Centers"
       },
       "geometry": {
         "type": "Point",
@@ -3696,7 +3980,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Exit Glacier Nature Center"
+        "name": "Exit Glacier Nature Center",
+        "folder": "Visitor Centers"
       },
       "geometry": {
         "type": "Point",
@@ -3709,7 +3994,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Denali Visitor Center"
+        "name": "Denali Visitor Center",
+        "folder": "Visitor Centers"
       },
       "geometry": {
         "type": "Point",
@@ -3722,7 +4008,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Murie Science & Learning Center"
+        "name": "Murie Science & Learning Center",
+        "folder": "Visitor Centers"
       },
       "geometry": {
         "type": "Point",
@@ -3735,7 +4022,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Walter Harper Talkeetna Ranger Station"
+        "name": "Walter Harper Talkeetna Ranger Station",
+        "folder": "Visitor Centers"
       },
       "geometry": {
         "type": "Point",
@@ -3748,7 +4036,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Denali Bus Depot"
+        "name": "Denali Bus Depot",
+        "folder": "Visitor Centers"
       },
       "geometry": {
         "type": "Point",
@@ -3761,7 +4050,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Eielson Visitor Center"
+        "name": "Eielson Visitor Center",
+        "folder": "Visitor Centers"
       },
       "geometry": {
         "type": "Point",
@@ -3774,7 +4064,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Toklat River Contact Station"
+        "name": "Toklat River Contact Station",
+        "folder": "Visitor Centers"
       },
       "geometry": {
         "type": "Point",
@@ -3787,7 +4078,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Glacier Bay National Park Visitor Center"
+        "name": "Glacier Bay National Park Visitor Center",
+        "folder": "Visitor Centers"
       },
       "geometry": {
         "type": "Point",
@@ -3800,7 +4092,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Glacier Bay National Park Visitor Information Station"
+        "name": "Glacier Bay National Park Visitor Information Station",
+        "folder": "Visitor Centers"
       },
       "geometry": {
         "type": "Point",
@@ -3813,7 +4106,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Port Alsworth Visitor Center"
+        "name": "Port Alsworth Visitor Center",
+        "folder": "Visitor Centers"
       },
       "geometry": {
         "type": "Point",
@@ -3826,7 +4120,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "King Salmon Visitor Center"
+        "name": "King Salmon Visitor Center",
+        "folder": "Visitor Centers"
       },
       "geometry": {
         "type": "Point",
@@ -3839,7 +4134,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Brooks Camp Visitor Center"
+        "name": "Brooks Camp Visitor Center",
+        "folder": "Visitor Centers"
       },
       "geometry": {
         "type": "Point",
@@ -3852,7 +4148,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Robert F. Griggs Visitor Center"
+        "name": "Robert F. Griggs Visitor Center",
+        "folder": "Visitor Centers"
       },
       "geometry": {
         "type": "Point",
@@ -3865,7 +4162,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Akami-Uapishk\u1d41-KakKasuak-Mealy Mountains National Park Reserve"
+        "name": "Akami-Uapishk\u1d41-KakKasuak-Mealy Mountains National Park Reserve",
+        "folder": "Canadian National Parks"
       },
       "geometry": {
         "type": "Point",
@@ -3878,7 +4176,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Aulavik National Park"
+        "name": "Aulavik National Park",
+        "folder": "Canadian National Parks"
       },
       "geometry": {
         "type": "Point",
@@ -3891,7 +4190,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Auyuittuq National Park"
+        "name": "Auyuittuq National Park",
+        "folder": "Canadian National Parks"
       },
       "geometry": {
         "type": "Point",
@@ -3904,7 +4204,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Banff National Park"
+        "name": "Banff National Park",
+        "folder": "Canadian National Parks"
       },
       "geometry": {
         "type": "Point",
@@ -3917,7 +4218,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Bruce Peninsula"
+        "name": "Bruce Peninsula",
+        "folder": "Canadian National Parks"
       },
       "geometry": {
         "type": "Point",
@@ -3930,7 +4232,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Cape Breton Highlands"
+        "name": "Cape Breton Highlands",
+        "folder": "Canadian National Parks"
       },
       "geometry": {
         "type": "Point",
@@ -3943,7 +4246,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Elk Island National Park"
+        "name": "Elk Island National Park",
+        "folder": "Canadian National Parks"
       },
       "geometry": {
         "type": "Point",
@@ -3956,7 +4260,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Parc national Forillon"
+        "name": "Parc national Forillon",
+        "folder": "Canadian National Parks"
       },
       "geometry": {
         "type": "Point",
@@ -3969,7 +4274,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Fundy National Park Of Canada"
+        "name": "Fundy National Park Of Canada",
+        "folder": "Canadian National Parks"
       },
       "geometry": {
         "type": "Point",
@@ -3982,7 +4288,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Georgian Bay Islands National Park"
+        "name": "Georgian Bay Islands National Park",
+        "folder": "Canadian National Parks"
       },
       "geometry": {
         "type": "Point",
@@ -3995,7 +4302,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Glacier National Park of Canada"
+        "name": "Glacier National Park of Canada",
+        "folder": "Canadian National Parks"
       },
       "geometry": {
         "type": "Point",
@@ -4008,7 +4316,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Grasslands National Park"
+        "name": "Grasslands National Park",
+        "folder": "Canadian National Parks"
       },
       "geometry": {
         "type": "Point",
@@ -4021,7 +4330,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Gros Morne National Park Of Canada"
+        "name": "Gros Morne National Park Of Canada",
+        "folder": "Canadian National Parks"
       },
       "geometry": {
         "type": "Point",
@@ -4034,7 +4344,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Gulf Islands National Park Reserve"
+        "name": "Gulf Islands National Park Reserve",
+        "folder": "Canadian National Parks"
       },
       "geometry": {
         "type": "Point",
@@ -4047,7 +4358,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Gwaii Haanas National Park Reserve and Haida Heritage Site"
+        "name": "Gwaii Haanas National Park Reserve and Haida Heritage Site",
+        "folder": "Canadian National Parks"
       },
       "geometry": {
         "type": "Point",
@@ -4060,7 +4372,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Ivvavik National Park"
+        "name": "Ivvavik National Park",
+        "folder": "Canadian National Parks"
       },
       "geometry": {
         "type": "Point",
@@ -4073,7 +4386,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Jasper National Park Of Canada"
+        "name": "Jasper National Park Of Canada",
+        "folder": "Canadian National Parks"
       },
       "geometry": {
         "type": "Point",
@@ -4086,7 +4400,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Kejimkujik National Park and National Historic Site"
+        "name": "Kejimkujik National Park and National Historic Site",
+        "folder": "Canadian National Parks"
       },
       "geometry": {
         "type": "Point",
@@ -4099,7 +4414,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Kluane National Park and Reserve"
+        "name": "Kluane National Park and Reserve",
+        "folder": "Canadian National Parks"
       },
       "geometry": {
         "type": "Point",
@@ -4112,7 +4428,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Kootenay National Park"
+        "name": "Kootenay National Park",
+        "folder": "Canadian National Parks"
       },
       "geometry": {
         "type": "Point",
@@ -4125,7 +4442,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Kouchibouguac"
+        "name": "Kouchibouguac",
+        "folder": "Canadian National Parks"
       },
       "geometry": {
         "type": "Point",
@@ -4138,7 +4456,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Parc national de la Mauricie"
+        "name": "Parc national de la Mauricie",
+        "folder": "Canadian National Parks"
       },
       "geometry": {
         "type": "Point",
@@ -4151,7 +4470,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "R\u00e9serve de parc national de l'Archipel-de-Mingan"
+        "name": "R\u00e9serve de parc national de l'Archipel-de-Mingan",
+        "folder": "Canadian National Parks"
       },
       "geometry": {
         "type": "Point",
@@ -4164,7 +4484,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Mount Revelstoke National Park"
+        "name": "Mount Revelstoke National Park",
+        "folder": "Canadian National Parks"
       },
       "geometry": {
         "type": "Point",
@@ -4177,7 +4498,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "N\u00e1\u00e1ts'\u012fhch'oh National Park Reserve"
+        "name": "N\u00e1\u00e1ts'\u012fhch'oh National Park Reserve",
+        "folder": "Canadian National Parks"
       },
       "geometry": {
         "type": "Point",
@@ -4190,7 +4512,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Nahanni National Park Reserve of Canada"
+        "name": "Nahanni National Park Reserve of Canada",
+        "folder": "Canadian National Parks"
       },
       "geometry": {
         "type": "Point",
@@ -4203,7 +4526,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Pacific Rim National Park Reserve"
+        "name": "Pacific Rim National Park Reserve",
+        "folder": "Canadian National Parks"
       },
       "geometry": {
         "type": "Point",
@@ -4216,7 +4540,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Point Pelee National Park"
+        "name": "Point Pelee National Park",
+        "folder": "Canadian National Parks"
       },
       "geometry": {
         "type": "Point",
@@ -4229,7 +4554,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Prince Albert National Park"
+        "name": "Prince Albert National Park",
+        "folder": "Canadian National Parks"
       },
       "geometry": {
         "type": "Point",
@@ -4242,7 +4568,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Prince Edward Island National Park"
+        "name": "Prince Edward Island National Park",
+        "folder": "Canadian National Parks"
       },
       "geometry": {
         "type": "Point",
@@ -4255,7 +4582,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Pukaskwa National Park"
+        "name": "Pukaskwa National Park",
+        "folder": "Canadian National Parks"
       },
       "geometry": {
         "type": "Point",
@@ -4268,7 +4596,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Qausuittuq National Park"
+        "name": "Qausuittuq National Park",
+        "folder": "Canadian National Parks"
       },
       "geometry": {
         "type": "Point",
@@ -4281,7 +4610,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Quttinirpaaq National Park"
+        "name": "Quttinirpaaq National Park",
+        "folder": "Canadian National Parks"
       },
       "geometry": {
         "type": "Point",
@@ -4294,7 +4624,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Riding Mountain National Park"
+        "name": "Riding Mountain National Park",
+        "folder": "Canadian National Parks"
       },
       "geometry": {
         "type": "Point",
@@ -4307,7 +4638,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Rouge National Urban Park"
+        "name": "Rouge National Urban Park",
+        "folder": "Canadian National Parks"
       },
       "geometry": {
         "type": "Point",
@@ -4320,7 +4652,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Sable Island National Park Reserve"
+        "name": "Sable Island National Park Reserve",
+        "folder": "Canadian National Parks"
       },
       "geometry": {
         "type": "Point",
@@ -4333,7 +4666,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Sirmilik National Park"
+        "name": "Sirmilik National Park",
+        "folder": "Canadian National Parks"
       },
       "geometry": {
         "type": "Point",
@@ -4346,7 +4680,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Terra Nova National Park"
+        "name": "Terra Nova National Park",
+        "folder": "Canadian National Parks"
       },
       "geometry": {
         "type": "Point",
@@ -4359,7 +4694,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Thaidene Nene National Park Reserve"
+        "name": "Thaidene Nene National Park Reserve",
+        "folder": "Canadian National Parks"
       },
       "geometry": {
         "type": "Point",
@@ -4372,7 +4708,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Thousand Islands National Park"
+        "name": "Thousand Islands National Park",
+        "folder": "Canadian National Parks"
       },
       "geometry": {
         "type": "Point",
@@ -4385,7 +4722,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Torngat Mountains National Park"
+        "name": "Torngat Mountains National Park",
+        "folder": "Canadian National Parks"
       },
       "geometry": {
         "type": "Point",
@@ -4398,7 +4736,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Tuktut Nogait National Park"
+        "name": "Tuktut Nogait National Park",
+        "folder": "Canadian National Parks"
       },
       "geometry": {
         "type": "Point",
@@ -4411,7 +4750,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Ukkusiksalik National Park"
+        "name": "Ukkusiksalik National Park",
+        "folder": "Canadian National Parks"
       },
       "geometry": {
         "type": "Point",
@@ -4424,7 +4764,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Vuntut National Park"
+        "name": "Vuntut National Park",
+        "folder": "Canadian National Parks"
       },
       "geometry": {
         "type": "Point",
@@ -4437,7 +4778,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Wapusk National Park"
+        "name": "Wapusk National Park",
+        "folder": "Canadian National Parks"
       },
       "geometry": {
         "type": "Point",
@@ -4450,7 +4792,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Waterton Park"
+        "name": "Waterton Park",
+        "folder": "Canadian National Parks"
       },
       "geometry": {
         "type": "Point",
@@ -4463,7 +4806,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Wood Buffalo National Park of Canada"
+        "name": "Wood Buffalo National Park of Canada",
+        "folder": "Canadian National Parks"
       },
       "geometry": {
         "type": "Point",
@@ -4476,7 +4820,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Yoho National Park Of Canada"
+        "name": "Yoho National Park Of Canada",
+        "folder": "Canadian National Parks"
       },
       "geometry": {
         "type": "Point",
@@ -4489,7 +4834,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Portland, OR"
+        "name": "Portland, OR",
+        "folder": "Sabbatical Trip"
       },
       "geometry": {
         "type": "Point",
@@ -4502,7 +4848,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Juneau, AK"
+        "name": "Juneau, AK",
+        "folder": "Sabbatical Trip"
       },
       "geometry": {
         "type": "Point",
@@ -4515,7 +4862,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Slana Ranger Station"
+        "name": "Slana Ranger Station",
+        "folder": "Sabbatical Trip"
       },
       "geometry": {
         "type": "Point",
@@ -4528,7 +4876,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "End of Nabesna Rd"
+        "name": "End of Nabesna Rd",
+        "folder": "Sabbatical Trip"
       },
       "geometry": {
         "type": "Point",
@@ -4541,7 +4890,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Chitina Ranger Station"
+        "name": "Chitina Ranger Station",
+        "folder": "Sabbatical Trip"
       },
       "geometry": {
         "type": "Point",
@@ -4554,7 +4904,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Kennecott Visitor Center"
+        "name": "Kennecott Visitor Center",
+        "folder": "Sabbatical Trip"
       },
       "geometry": {
         "type": "Point",
@@ -4567,7 +4918,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Denali Visitor Center"
+        "name": "Denali Visitor Center",
+        "folder": "Sabbatical Trip"
       },
       "geometry": {
         "type": "Point",
@@ -4580,7 +4932,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Anchorage, AK"
+        "name": "Anchorage, AK",
+        "folder": "Sabbatical Trip"
       },
       "geometry": {
         "type": "Point",
@@ -4593,7 +4946,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Kenai Fjords National Park Visitor Center"
+        "name": "Kenai Fjords National Park Visitor Center",
+        "folder": "Sabbatical Trip"
       },
       "geometry": {
         "type": "Point",
@@ -4606,7 +4960,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Homer, AK"
+        "name": "Homer, AK",
+        "folder": "Sabbatical Trip"
       },
       "geometry": {
         "type": "Point",
